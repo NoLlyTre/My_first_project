@@ -1,8 +1,2 @@
 git add README.md
 git commit -m "Initial commit. Added project description"
-git checkout -b develop
-echo "def add(a, b):" > calculator.py
-echo "    return a + b" >> calculator.py
-echo "" >> calculator.py
-echo "def subtract(a, b):" >> calculator.py
-echo "    return a - b" >> calculator.py
