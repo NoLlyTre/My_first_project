@@ -1,0 +1,5 @@
+echo "def add(a, b):"
+echo "    return a + b"
+echo ""
+echo "def subtract(a, b):"
+echo "    return a - b"
